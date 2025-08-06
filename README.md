@@ -7,7 +7,7 @@ Welcome! This repository contains my hands-on SQL learning, practice exercises, 
 ## About Me
 
 Hi, I’m Sahil Gundu – Data Engineer in the making, passionate about data, cloud, and practical SQL skills.  
-- **12+ years in IT (Software Testing, Agile, BFSI domain)**
+- **12+ years in IT (Agile, BFSI domain, GCP Data Engineer, Azure Data Engineer)**
 - Currently focused on **Data Engineering** and **Cloud Platforms** (GCP, Azure)
 - Building this repository as a transparent record of my upskilling journey
 
