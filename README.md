@@ -28,8 +28,7 @@ Hi, I’m Sahil Gundu – Data Engineer in the making, passionate about data, cl
 
 ## Folder Structure
 
-/
-│
+sql-learning-2025/
 ├── SELECT_basics.sql
 ├── String_vs_Calendar_Order.sql
 ├── Advanced_Queries.sql
@@ -37,7 +36,6 @@ Hi, I’m Sahil Gundu – Data Engineer in the making, passionate about data, cl
 │ ├── query_experiment1.png
 │ └── ...
 └── README.md
-
 
 ---
 
