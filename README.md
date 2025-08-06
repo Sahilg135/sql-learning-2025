@@ -33,9 +33,10 @@ sql-learning-2025/
 ├── String_vs_Calendar_Order.sql
 ├── Advanced_Queries.sql
 ├── screenshots/
-│ ├── query_experiment1.png
-│ └── ...
+│   ├── query_experiment1.png
+│   └── ...
 └── README.md
+
 
 ---
 
